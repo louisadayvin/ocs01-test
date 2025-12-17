@@ -1,0 +1,7006 @@
+=== OCS01 Regular Benchmark ===
+Start time: 2025-11-24T12:05:39Z
+Total TX: 200
+-------------------------------
+[12:05:39] Sending TX #1 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.034204 oct (nonce: 153)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:05:56] Sending TX #2 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.034204 oct (nonce: 153)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:06:13] Sending TX #3 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.034204 oct (nonce: 153)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:06:29] Sending TX #4 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.033204 oct (nonce: 154)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:06:45] Sending TX #5 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.033204 oct (nonce: 154)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:07:02] Sending TX #6 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.033204 oct (nonce: 154)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:07:19] Sending TX #7 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.033204 oct (nonce: 154)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:07:35] Sending TX #8 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.032204 oct (nonce: 155)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:07:55] Sending TX #9 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.032204 oct (nonce: 155)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:08:11] Sending TX #10 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.032204 oct (nonce: 155)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:08:27] Sending TX #11 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.032204 oct (nonce: 155)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:08:44] Sending TX #12 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.031204 oct (nonce: 156)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:09:04] Sending TX #13 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.031204 oct (nonce: 156)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:09:20] Sending TX #14 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.031204 oct (nonce: 156)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:09:36] Sending TX #15 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.031204 oct (nonce: 156)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:09:53] Sending TX #16 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.030204 oct (nonce: 157)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:10:13] Sending TX #17 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.030204 oct (nonce: 157)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:10:30] Sending TX #18 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.030204 oct (nonce: 157)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:10:47] Sending TX #19 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.030204 oct (nonce: 157)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:11:03] Sending TX #20 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.029204 oct (nonce: 158)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:11:23] Sending TX #21 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.029204 oct (nonce: 158)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:11:39] Sending TX #22 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.029204 oct (nonce: 158)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:11:56] Sending TX #23 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.029204 oct (nonce: 158)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:12:13] Sending TX #24 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.028204 oct (nonce: 159)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:12:33] Sending TX #25 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.028204 oct (nonce: 159)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:12:50] Sending TX #26 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.028204 oct (nonce: 159)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:13:06] Sending TX #27 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.028204 oct (nonce: 159)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:13:22] Sending TX #28 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.027204 oct (nonce: 160)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:13:42] Sending TX #29 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.027204 oct (nonce: 160)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:13:59] Sending TX #30 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.027204 oct (nonce: 160)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:14:16] Sending TX #31 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.027204 oct (nonce: 160)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:14:32] Sending TX #32 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.026204 oct (nonce: 161)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:14:51] Sending TX #33 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.026204 oct (nonce: 161)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:15:08] Sending TX #34 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.026204 oct (nonce: 161)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:15:25] Sending TX #35 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.026204 oct (nonce: 161)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:15:41] Sending TX #36 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.025204 oct (nonce: 162)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:16:00] Sending TX #37 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.025204 oct (nonce: 162)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:16:16] Sending TX #38 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.025204 oct (nonce: 162)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:16:33] Sending TX #39 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.025204 oct (nonce: 162)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:16:50] Sending TX #40 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.024204 oct (nonce: 163)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:17:10] Sending TX #41 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.024204 oct (nonce: 163)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:17:26] Sending TX #42 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.024204 oct (nonce: 163)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:17:43] Sending TX #43 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.024204 oct (nonce: 163)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:18:00] Sending TX #44 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.023204 oct (nonce: 164)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:18:20] Sending TX #45 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.023204 oct (nonce: 164)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:18:37] Sending TX #46 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.023204 oct (nonce: 164)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:18:53] Sending TX #47 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.023204 oct (nonce: 164)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:19:10] Sending TX #48 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.022204 oct (nonce: 165)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:19:29] Sending TX #49 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.022204 oct (nonce: 165)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:19:46] Sending TX #50 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.022204 oct (nonce: 165)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:20:02] Sending TX #51 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.022204 oct (nonce: 165)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:20:18] Sending TX #52 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.021204 oct (nonce: 166)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:20:39] Sending TX #53 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.021204 oct (nonce: 166)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:20:55] Sending TX #54 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.021204 oct (nonce: 166)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:21:12] Sending TX #55 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.021204 oct (nonce: 166)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:21:29] Sending TX #56 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.020204 oct (nonce: 167)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:21:48] Sending TX #57 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.020204 oct (nonce: 167)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:22:06] Sending TX #58 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.020204 oct (nonce: 167)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:22:23] Sending TX #59 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+13
+your balance: 379.019204 oct (nonce: 168)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:22:48] Sending TX #60 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.019204 oct (nonce: 168)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:23:05] Sending TX #61 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.019204 oct (nonce: 168)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:23:22] Sending TX #62 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.019204 oct (nonce: 168)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:23:38] Sending TX #63 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.018204 oct (nonce: 169)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:23:57] Sending TX #64 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.018204 oct (nonce: 169)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:24:13] Sending TX #65 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.018204 oct (nonce: 169)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:24:30] Sending TX #66 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.018204 oct (nonce: 169)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:24:47] Sending TX #67 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.017204 oct (nonce: 170)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:25:07] Sending TX #68 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.017204 oct (nonce: 170)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:25:24] Sending TX #69 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.017204 oct (nonce: 170)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:25:40] Sending TX #70 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.017204 oct (nonce: 170)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:25:57] Sending TX #71 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.016204 oct (nonce: 171)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:26:13] Sending TX #72 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.016204 oct (nonce: 171)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:26:30] Sending TX #73 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.016204 oct (nonce: 171)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:26:47] Sending TX #74 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.016204 oct (nonce: 171)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:27:03] Sending TX #75 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.015204 oct (nonce: 172)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:27:20] Sending TX #76 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.015204 oct (nonce: 172)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:27:37] Sending TX #77 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.015204 oct (nonce: 172)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:27:54] Sending TX #78 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.015204 oct (nonce: 172)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+[12:28:10] Sending TX #79 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.014204 oct (nonce: 173)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:28:27] Sending TX #80 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.014204 oct (nonce: 173)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:28:44] Sending TX #81 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.014204 oct (nonce: 173)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:29:00] Sending TX #82 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.014204 oct (nonce: 173)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:29:16] Sending TX #83 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.013204 oct (nonce: 174)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:29:37] Sending TX #84 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.013204 oct (nonce: 174)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:29:53] Sending TX #85 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.013204 oct (nonce: 174)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:30:10] Sending TX #86 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.013204 oct (nonce: 174)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:30:27] Sending TX #87 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.012204 oct (nonce: 175)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:30:46] Sending TX #88 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.012204 oct (nonce: 175)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:31:03] Sending TX #89 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.012204 oct (nonce: 175)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:31:20] Sending TX #90 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.012204 oct (nonce: 175)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:31:36] Sending TX #91 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.011204 oct (nonce: 176)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:31:56] Sending TX #92 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.011204 oct (nonce: 176)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:32:13] Sending TX #93 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.011204 oct (nonce: 176)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:32:30] Sending TX #94 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.011204 oct (nonce: 176)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:32:46] Sending TX #95 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.010204 oct (nonce: 177)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:33:05] Sending TX #96 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.010204 oct (nonce: 177)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:33:21] Sending TX #97 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.010204 oct (nonce: 177)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:33:38] Sending TX #98 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.010204 oct (nonce: 177)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:33:55] Sending TX #99 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.009204 oct (nonce: 178)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:34:15] Sending TX #100 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.009204 oct (nonce: 178)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:34:32] Sending TX #101 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.009204 oct (nonce: 178)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:34:48] Sending TX #102 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.009204 oct (nonce: 178)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:35:05] Sending TX #103 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.008204 oct (nonce: 179)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:35:25] Sending TX #104 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.008204 oct (nonce: 179)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:35:42] Sending TX #105 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.008204 oct (nonce: 179)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:35:59] Sending TX #106 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.008204 oct (nonce: 179)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:36:15] Sending TX #107 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.007204 oct (nonce: 180)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:36:34] Sending TX #108 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.007204 oct (nonce: 180)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:36:50] Sending TX #109 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.007204 oct (nonce: 180)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:37:07] Sending TX #110 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.007204 oct (nonce: 180)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:37:24] Sending TX #111 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.006204 oct (nonce: 181)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:37:44] Sending TX #112 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.006204 oct (nonce: 181)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:38:01] Sending TX #113 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.006204 oct (nonce: 181)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:38:18] Sending TX #114 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+13
+your balance: 379.005204 oct (nonce: 182)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:38:44] Sending TX #115 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.005204 oct (nonce: 182)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:39:01] Sending TX #116 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.005204 oct (nonce: 182)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:39:18] Sending TX #117 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.005204 oct (nonce: 182)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:39:34] Sending TX #118 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.004204 oct (nonce: 183)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:39:55] Sending TX #119 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.004204 oct (nonce: 183)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:40:11] Sending TX #120 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.004204 oct (nonce: 183)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:40:28] Sending TX #121 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.004204 oct (nonce: 183)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:40:45] Sending TX #122 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.003204 oct (nonce: 184)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:41:04] Sending TX #123 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.003204 oct (nonce: 184)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:41:20] Sending TX #124 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.003204 oct (nonce: 184)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:41:36] Sending TX #125 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.003204 oct (nonce: 184)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:41:53] Sending TX #126 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.002204 oct (nonce: 185)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:42:13] Sending TX #127 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.002204 oct (nonce: 185)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:42:30] Sending TX #128 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.002204 oct (nonce: 185)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:42:46] Sending TX #129 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.002204 oct (nonce: 185)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:43:03] Sending TX #130 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.001204 oct (nonce: 186)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:43:22] Sending TX #131 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.001204 oct (nonce: 186)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:43:39] Sending TX #132 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.001204 oct (nonce: 186)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:43:56] Sending TX #133 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.001204 oct (nonce: 186)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:44:12] Sending TX #134 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.000204 oct (nonce: 187)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:44:32] Sending TX #135 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.000204 oct (nonce: 187)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:44:49] Sending TX #136 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.000204 oct (nonce: 187)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:45:06] Sending TX #137 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 379.000204 oct (nonce: 187)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:45:22] Sending TX #138 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.999204 oct (nonce: 188)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:45:41] Sending TX #139 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.999204 oct (nonce: 188)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:45:57] Sending TX #140 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.999204 oct (nonce: 188)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:46:14] Sending TX #141 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.999204 oct (nonce: 188)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:46:31] Sending TX #142 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.998204 oct (nonce: 189)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:46:51] Sending TX #143 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.998204 oct (nonce: 189)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:47:08] Sending TX #144 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.998204 oct (nonce: 189)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:47:24] Sending TX #145 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.998204 oct (nonce: 189)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:47:41] Sending TX #146 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.997204 oct (nonce: 190)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:48:00] Sending TX #147 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.997204 oct (nonce: 190)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:48:17] Sending TX #148 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.997204 oct (nonce: 190)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:48:34] Sending TX #149 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.997204 oct (nonce: 190)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:48:50] Sending TX #150 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.996204 oct (nonce: 191)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:49:10] Sending TX #151 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.996204 oct (nonce: 191)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:49:26] Sending TX #152 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.996204 oct (nonce: 191)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:49:43] Sending TX #153 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.996204 oct (nonce: 191)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:50:00] Sending TX #154 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.995204 oct (nonce: 192)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:50:19] Sending TX #155 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.995204 oct (nonce: 192)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:50:36] Sending TX #156 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.995204 oct (nonce: 192)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:50:53] Sending TX #157 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.995204 oct (nonce: 192)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:51:09] Sending TX #158 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.994204 oct (nonce: 193)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:51:29] Sending TX #159 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.994204 oct (nonce: 193)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:51:45] Sending TX #160 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.994204 oct (nonce: 193)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:52:01] Sending TX #161 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.994204 oct (nonce: 193)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:52:18] Sending TX #162 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.993204 oct (nonce: 194)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:52:39] Sending TX #163 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.993204 oct (nonce: 194)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:52:55] Sending TX #164 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.993204 oct (nonce: 194)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:53:11] Sending TX #165 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.993204 oct (nonce: 194)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:53:28] Sending TX #166 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.992204 oct (nonce: 195)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:53:44] Sending TX #167 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.992204 oct (nonce: 195)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:54:00] Sending TX #168 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.992204 oct (nonce: 195)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:54:17] Sending TX #169 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.992204 oct (nonce: 195)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:54:34] Sending TX #170 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.991204 oct (nonce: 196)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:54:51] Sending TX #171 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.991204 oct (nonce: 196)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:55:07] Sending TX #172 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.991204 oct (nonce: 196)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:55:23] Sending TX #173 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.991204 oct (nonce: 196)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:55:40] Sending TX #174 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.990204 oct (nonce: 197)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:55:59] Sending TX #175 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.990204 oct (nonce: 197)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:56:15] Sending TX #176 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.990204 oct (nonce: 197)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:56:31] Sending TX #177 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.990204 oct (nonce: 197)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:56:48] Sending TX #178 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:57:07] Sending TX #179 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:57:24] Sending TX #180 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:57:41] Sending TX #181 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:57:58] Sending TX #182 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:58:18] Sending TX #183 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:58:35] Sending TX #184 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:58:52] Sending TX #185 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:59:08] Sending TX #186 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:59:27] Sending TX #187 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[12:59:44] Sending TX #188 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[13:00:00] Sending TX #189 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[13:00:17] Sending TX #190 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[13:00:36] Sending TX #191 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[13:00:52] Sending TX #192 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[13:01:09] Sending TX #193 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[13:01:26] Sending TX #194 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[13:01:46] Sending TX #195 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[13:02:03] Sending TX #196 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[13:02:19] Sending TX #197 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[13:02:36] Sending TX #198 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[13:02:55] Sending TX #199 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...[13:03:11] Sending TX #200 ...
+spawn ./ocs01-test call --net https://rpc1.octra.network --mode regular
+
+--- ocs01 test client ---
+contract: octBUHw585BrAMPMLQvGuWx4vqEsybYH9N7a3WNj1WBwrDn
+your balance: 378.989204 oct (nonce: 198)
+
+select method:
+1. greeting (get personal msg)
+2. contract info (get contract description)
+3. claim 1 token (only once per address)
+4. check token balance
+5. dot product (x1 * x2 + y1 * y2)
+6. vector magnitude sqrt(x^2 + y^2)
+7. power (base^exponent)
+8. factorial (n!)
+9. fibonacci number
+10. greatest common divisor
+11. check if number is prime
+12. 2x2 matrix determinant (ad - bc)
+13. linear interpolation
+14. modular exponentiation (base^exp mod m)
+0. exit
+
+choice: 13
+
+--- linearInterpolate ---
+x0: 152
+y0: 27888
+x1: 3556225
+y1: 4582245
+x: 
+
+result: "27694"
+
+press enter to continue...-------------------------------
+End time: 2025-11-24T13:03:28Z
+Total duration: 3469s
+Approx TPS: 
+Benchmark completed successfully.
